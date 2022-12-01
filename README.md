@@ -34,3 +34,6 @@ If you're interested enough,
 ## Follow and Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0966C2)](https://www.linkedin.com/in/nikita-ekshabarov-a93852258)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A3E2)](https://t.me/ekshabar)
+
+
+[![Fravvian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fravvian&show_icons=true&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats&)
