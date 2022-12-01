@@ -28,9 +28,6 @@ Check my CV [here](https://drive.google.com/drive/u/0/folders/1aiAR-uSGjh_e68Hek
 - [SQL Queries](https://drive.google.com/drive/folders/1cRknb3n9ApiWwwA_OhEuvcpmEchjMBNV?usp=sharing)
 - [Postman Collections](https://drive.google.com/drive/folders/135FH0MP6fqdNa2R6opkEW5S5gedhDYR7?usp=sharing)
 
-
-If you're interested enough, 
-
 ## Follow and Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0966C2)](https://www.linkedin.com/in/nikita-ekshabarov-a93852258)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A3E2)](https://t.me/ekshabar)
