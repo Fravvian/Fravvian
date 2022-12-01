@@ -4,7 +4,7 @@
 
 Hi, my name is Nikita!
 
-I'm Beginner Quality Assurance Engineer with passion to make software better.
+I'm Quality Assurance Engineer with passion to make software better.
 
 ## Language and Tools
 
@@ -18,4 +18,6 @@ I'm Beginner Quality Assurance Engineer with passion to make software better.
 ![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-090909?style=for-the-badge&logo=Charles_Proxy&logoColor=9A54F2)
 
 
-Follow Me
+## Follow and Contact Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0966C2)](https://www.linkedin.com/in/nikita-ekshabarov-a93852258)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A3E2)](https://t.me/ekshabar)
