@@ -6,6 +6,8 @@ Hi, my name is Nikita!
 
 I'm Quality Assurance Engineer with passion to make software better.
 
+Check my CV [here](https://drive.google.com/drive/u/0/folders/1aiAR-uSGjh_e68HekwaQMckqA_EK8zoK)
+
 ## Language and Tools
 
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=Google-Chrome&logoColor=2874F1)
@@ -17,6 +19,17 @@ I'm Quality Assurance Engineer with passion to make software better.
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=F2F2F2)
 ![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-090909?style=for-the-badge&logo=Charles_Proxy&logoColor=9A54F2)
 
+## Testing Documentation 
+
+- [Test Plans](https://drive.google.com/drive/folders/1z0-24EGkbqDgegKq4wC-3gNglwCTgAzm?usp=sharing)
+- [Test Suites and Test Cases](https://drive.google.com/drive/folders/1WUlz-1wi_QTwglZJLokJeV1QVZtXFo3A?usp=sharing)
+- [Checklists](https://drive.google.com/drive/folders/1BHOL3-EpF1j69mEZvCw5s9gQjDxwHpYs?usp=sharing)
+- [Bug Reports](https://drive.google.com/drive/folders/1m7CtfNOFx0IN3fLcsDyAJCHQC9Tah_0u?usp=sharing)
+- [SQL Queries](https://drive.google.com/drive/folders/1cRknb3n9ApiWwwA_OhEuvcpmEchjMBNV?usp=sharing)
+- [Postman Collections](https://drive.google.com/drive/folders/135FH0MP6fqdNa2R6opkEW5S5gedhDYR7?usp=sharing)
+
+
+If you're interested enough, 
 
 ## Follow and Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0966C2)](https://www.linkedin.com/in/nikita-ekshabarov-a93852258)
